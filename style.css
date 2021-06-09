@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700;900&display=swap');
+
+body {font-family: 'Roboto', sans-serif;}
+
+
+.main-div{
+	background-color:#E5E5E5;
+}
+.container{
+	text-align: center;
+}
+
+h1{
+	color: black;
+	margin: auto;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+.ctable{
+	margin: auto;
+	font-size: 20px;
+	font-weight: 400;
+}
+.ctable tr td input{
+	background: transparent;
+	font-size: 20px;
+}
+button{
+	background-color: gray;
+  	border: none;
+  	text-align: center;
+  	font-size: 18px;
+  	color: white;
+  	padding: 10px;
+  	border-radius: 5px;
+  	width: 130px;
+  	cursor: pointer;
+  	margin: 10px;
+  }
